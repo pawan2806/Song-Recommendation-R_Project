@@ -1,0 +1,500 @@
+User ID,Age,Song Title,Movie Name,Artist Of Song,Mood of song,Year of release
+SCETTYB102,40,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,2007
+SCETTYB107,40,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,2007
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB108,10,Chidiya Rani,,,Happy,2005
+SCETTYB106,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB105,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB108,10,Chidiya Rani,,,Happy,2005
+SCETTYB106,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB105,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB108,10,Nachare Mora,,,Happy,2004
+SCETTYB101,40,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,1961
+SCETTYB103,40,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,1960
+SCETTYB101,40,Ilahi,Yeh Jawanni Hai Devani,Mohit Chauhan,Happy,1960
+SCETTYB107,40,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,1960
+SCETTYB101,40,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,1960
+SCETTYB103,40,Kabhi is tarah,Highway,A R rahman,Silent,1960
+SCETTYB103,40,Ye Khuda,Rockstar,Mohit Chauhan,,1959
+SCETTYB102,40,Khoya khoya chand ,Mohmad Rafi,Mohmad Rafi,Sad,1959
+SCETTYB103,40,Koi Pathar Se na Maare,Aaja Nachle,Shreya Ghoshal,Sad,1959
+SCETTYB101,40,Raabta,Agent Vinod ,Shreya Ghoshal,Sad,1959
+SCETTYB103,40,Maahi,Highway,A R rahman,Sad,1959
+SCETTYB105,50,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1991
+SCETTYB104,50,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1999
+SCETTYB105,50,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1991
+SCETTYB105,50,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB105,50,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB105,50,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1994
+SCETTYB105,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB105,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB104,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB105,50,Daru Khrab,Mohmad Rafi,Mohmad Rafi,Silent,1999
+SCETTYB105,50,Ek din bit jayega,Mohmad Rafi,Mohmad Rafi,Silent,1996
+SCETTYB104,50,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1991
+SCETTYB104,50,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1999
+SCETTYB104,50,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1991
+SCETTYB104,50,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB106,50,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB102,52,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,1986
+SCETTYB107,52,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,1986
+SCETTYB106,53,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1986
+SCETTYB108,53,Chidiya Rani,,,Happy,1986
+SCETTYB106,53,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1986
+SCETTYB105,54,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1986
+SCETTYB106,54,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1986
+SCETTYB108,55,Chidiya Rani,,,Happy,1986
+SCETTYB106,55,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1986
+SCETTYB105,56,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1986
+SCETTYB106,56,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1986
+SCETTYB108,56,Nachare Mora,,,Happy,1986
+SCETTYB101,57,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,1986
+SCETTYB103,57,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,1986
+SCETTYB101,58,Ilahi,Yeh Jawanni Hai Devani,Mohit Chauhan,Happy,1986
+SCETTYB107,58,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,1986
+SCETTYB101,58,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,1986
+SCETTYB103,59,Kabhi is tarah,Highway,A R rahman,Silent,1986
+SCETTYB103,59,Ye Khuda,Rockstar,Mohit Chauhan,,1986
+SCETTYB102,60,Khoya khoya chand ,Mohmad Rafi,Mohmad Rafi,Sad,1986
+SCETTYB103,60,Koi Pathar Se na Maare,Aaja Nachle,Shreya Ghoshal,Sad,1986
+SCETTYB101,60,Raabta,Agent Vinod ,Shreya Ghoshal,Sad,1986
+SCETTYB103,61,Maahi,Highway,A R rahman,Sad,1986
+SCETTYB105,61,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1986
+SCETTYB104,62,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1986
+SCETTYB105,62,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1986
+SCETTYB105,62,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1985
+SCETTYB105,63,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1985
+SCETTYB105,63,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1985
+SCETTYB105,64,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1985
+SCETTYB105,64,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1985
+SCETTYB104,65,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1985
+SCETTYB105,65,Daru Khrab,Mohmad Rafi,Mohmad Rafi,Silent,1985
+SCETTYB105,65,Ek din bit jayega,Mohmad Rafi,Mohmad Rafi,Silent,1985
+SCETTYB104,66,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1985
+SCETTYB104,66,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1985
+SCETTYB104,67,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1985
+SCETTYB104,67,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1985
+SCETTYB106,67,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1985
+SCETTYB102,68,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,1985
+SCETTYB107,68,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,1985
+SCETTYB106,69,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1985
+SCETTYB108,69,Chidiya Rani,,,Happy,1985
+SCETTYB106,69,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1985
+SCETTYB105,70,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1985
+SCETTYB106,70,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1985
+SCETTYB108,71,Chidiya Rani,,,Happy,1985
+SCETTYB106,71,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1985
+SCETTYB105,72,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1985
+SCETTYB106,72,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1985
+SCETTYB108,72,Nachare Mora,,,Happy,1985
+SCETTYB101,73,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,1985
+SCETTYB103,73,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,1985
+SCETTYB101,74,Ilahi,Yeh Jawanni Hai Devani,Mohit Chauhan,Happy,1985
+SCETTYB107,74,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,1985
+SCETTYB101,74,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,1985
+SCETTYB103,75,Kabhi is tarah,Highway,A R rahman,Silent,1985
+SCETTYB103,75,Ye Khuda,Rockstar,Mohit Chauhan,,1985
+SCETTYB102,76,Khoya khoya chand ,Mohmad Rafi,Mohmad Rafi,Sad,1985
+SCETTYB103,76,Koi Pathar Se na Maare,Aaja Nachle,Shreya Ghoshal,Sad,1985
+SCETTYB101,76,Raabta,Agent Vinod ,Shreya Ghoshal,Sad,1985
+SCETTYB103,77,Maahi,Highway,A R rahman,Sad,1984
+SCETTYB105,77,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1984
+SCETTYB104,78,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1984
+SCETTYB105,78,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1984
+SCETTYB105,79,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1984
+SCETTYB105,79,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1984
+SCETTYB105,79,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1984
+SCETTYB105,80,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1984
+SCETTYB105,80,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1984
+SCETTYB104,81,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1984
+SCETTYB105,81,Daru Khrab,Mohmad Rafi,Mohmad Rafi,Silent,1984
+SCETTYB105,81,Ek din bit jayega,Mohmad Rafi,Mohmad Rafi,Silent,1984
+SCETTYB104,82,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1984
+SCETTYB104,82,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1984
+SCETTYB104,83,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1984
+SCETTYB104,83,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1984
+SCETTYB106,83,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1984
+SCETTYB102,84,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,1984
+SCETTYB107,84,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,1984
+SCETTYB104,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB105,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB105,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB109,10,Agobai dhagobai,,,Happy,2002
+SCETTYB109,10,Gori Gori Pan,,,Happy,2004
+SCETTYB109,10,Nachare Mora,,,Happy,2005
+SCETTYB109,10,Chidiya Rani,,,Happy,2002
+SCETTYB108,10,Nani teri morni,,,Exciting,2004
+SCETTYB109,10,Sang Sang Bolanath,,,Exciting,2005
+SCETTYB109,10,Chandoba Chandoba,,,Exciting,2002
+SCETTYB108,10,Aai ekti ekti ghabrlis na,,,Silent,2004
+SCETTYB108,10,Angai Geet,,,Silent,2005
+SCETTYB109,10,Agobai dhagobai,,,Happy,1999
+SCETTYB108,10,Gori Gori Pan,,,Happy,2002
+SCETTYB109,10,Nachare Mora,,,Happy,2004
+SCETTYB109,10,Chidiya Rani,,,Happy,2005
+SCETTYB102,40,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,2007
+SCETTYB107,40,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,2007
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB109,10,Angai Geet,,,Silent,2004
+SCETTYB108,10,Agobai dhagobai,,,Happy,2005
+SCETTYB105,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB108,10,Chidiya Rani,,,Happy,2005
+SCETTYB106,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB105,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB108,10,Nachare Mora,,,Happy,2004
+SCETTYB108,10,Chidiya Rani,,,Happy,2005
+SCETTYB105,50,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1991
+SCETTYB102,40,Dola Re Dola,Devdas,Shreya Ghoshal,Exciting,2004
+SCETTYB101,40,Diye Jalate Hai,Namak Haram,Kishor Kumar,Silent,2005
+SCETTYB103,40,Saans Me Teri ,Jab Tak Hai Jaan ,Shreya Ghoshal,silent,2012
+SCETTYB107,40,Jo Bhi Main,Rockstar,Mohit Chauhan,Silent,2009
+SCETTYB107,40,Naadaan Parindey,Rockstar,Mohit Chauhan,Silent,1992
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB109,10,Angai Geet,,,Silent,2004
+SCETTYB108,10,Agobai dhagobai,,,Happy,2005
+SCETTYB102,40,Ilahi,Yeh Jawanni Hai Devani,Mohit Chauhan,Happy,2003
+SCETTYB102,40,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,2003
+SCETTYB107,40,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,2003
+SCETTYB102,40,Kabhi is tarah,Highway,A R rahman,Silent,2003
+SCETTYB107,40,Ye Khuda,Rockstar,Mohit Chauhan,,2002
+SCETTYB101,40,Khoya khoya chand ,Mohmad Rafi,Mohmad Rafi,Sad,2002
+SCETTYB103,40,Koi Pathar Se na Maare,Aaja Nachle,Shreya Ghoshal,Sad,2002
+SCETTYB107,40,Raabta,Agent Vinod ,Shreya Ghoshal,Sad,2002
+SCETTYB102,40,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,2007
+SCETTYB107,40,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,2007
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB109,10,Angai Geet,,,Silent,2004
+SCETTYB108,10,Agobai dhagobai,,,Happy,2005
+SCETTYB105,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB102,40,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,1962
+SCETTYB103,40,Ilahi,Yeh Jawanni Hai Devani,Mohit Chauhan,Happy,1961
+SCETTYB103,40,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,1961
+SCETTYB107,40,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,1961
+SCETTYB101,40,Kabhi is tarah,Highway,A R rahman,Silent,1961
+SCETTYB102,40,Ye Khuda,Rockstar,Mohit Chauhan,,1961
+SCETTYB101,40,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,1961
+SCETTYB103,40,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,1960
+SCETTYB101,40,Ilahi,Yeh Jawanni Hai Devani,Mohit Chauhan,Happy,1960
+SCETTYB107,40,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,1960
+SCETTYB101,40,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,1960
+SCETTYB103,40,Kabhi is tarah,Highway,A R rahman,Silent,1960
+SCETTYB103,40,Ye Khuda,Rockstar,Mohit Chauhan,,1959
+SCETTYB104,44,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1974
+SCETTYB105,44,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1973
+SCETTYB105,44,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1973
+SCETTYB109,45,Agobai dhagobai,,,Happy,1972
+SCETTYB109,45,Gori Gori Pan,,,Happy,1972
+SCETTYB109,45,Nachare Mora,,,Happy,1971
+SCETTYB109,46,Chidiya Rani,,,Happy,1970
+SCETTYB108,46,Nani teri morni,,,Exciting,1970
+SCETTYB109,46,Sang Sang Bolanath,,,Exciting,1969
+SCETTYB109,47,Chandoba Chandoba,,,Exciting,1969
+SCETTYB108,47,Aai ekti ekti ghabrlis na,,,Silent,1968
+SCETTYB108,47,Angai Geet,,,Silent,1967
+SCETTYB109,48,Agobai dhagobai,,,Happy,1967
+SCETTYB108,48,Gori Gori Pan,,,Happy,1966
+SCETTYB109,49,Nachare Mora,,,Happy,1966
+SCETTYB109,49,Chidiya Rani,,,Happy,1965
+SCETTYB102,49,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,1964
+SCETTYB107,50,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,1964
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1963
+SCETTYB109,50,Angai Geet,,,Silent,1963
+SCETTYB108,51,Agobai dhagobai,,,Happy,1962
+SCETTYB105,51,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1961
+SCETTYB106,51,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1961
+SCETTYB108,52,Chidiya Rani,,,Happy,1960
+SCETTYB106,52,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1960
+SCETTYB105,52,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1959
+SCETTYB106,53,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1958
+SCETTYB108,53,Nachare Mora,,,Happy,1958
+SCETTYB108,53,Chidiya Rani,,,Happy,1957
+SCETTYB105,54,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1957
+SCETTYB102,54,Dola Re Dola,Devdas,Shreya Ghoshal,Exciting,1956
+SCETTYB101,54,Diye Jalate Hai,Namak Haram,Kishor Kumar,Silent,1956
+SCETTYB103,55,Saans Me Teri ,Jab Tak Hai Jaan ,Shreya Ghoshal,silent,1955
+SCETTYB107,55,Jo Bhi Main,Rockstar,Mohit Chauhan,Silent,1954
+SCETTYB107,55,Naadaan Parindey,Rockstar,Mohit Chauhan,Silent,1954
+SCETTYB106,56,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1953
+SCETTYB109,56,Angai Geet,,,Silent,1953
+SCETTYB108,56,Agobai dhagobai,,,Happy,1952
+SCETTYB102,57,Ilahi,Yeh Jawanni Hai Devani,Mohit Chauhan,Happy,1951
+SCETTYB102,57,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,1951
+SCETTYB107,57,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,1950
+SCETTYB102,58,Kabhi is tarah,Highway,A R rahman,Silent,1950
+SCETTYB107,58,Ye Khuda,Rockstar,Mohit Chauhan,,1949
+SCETTYB101,59,Khoya khoya chand ,Mohmad Rafi,Mohmad Rafi,Sad,1948
+SCETTYB103,59,Koi Pathar Se na Maare,Aaja Nachle,Shreya Ghoshal,Sad,1948
+SCETTYB107,59,Raabta,Agent Vinod ,Shreya Ghoshal,Sad,1947
+SCETTYB102,60,Dhoom Taana,Om Shanti Om,Shreya Ghoshal,Happy,1947
+SCETTYB107,60,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,1946
+SCETTYB106,60,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1945
+SCETTYB109,61,Angai Geet,,,Silent,1945
+SCETTYB108,61,Agobai dhagobai,,,Happy,1944
+SCETTYB105,61,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1944
+SCETTYB106,62,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1943
+SCETTYB102,62,Om Shanti Om,Om Shanti Om,Shreya Ghoshal,Happy,1942
+SCETTYB103,62,Ilahi,Yeh Jawanni Hai Devani,Mohit Chauhan,Happy,1942
+SCETTYB103,63,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,1941
+SCETTYB107,63,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,1941
+SCETTYB101,63,Kabhi is tarah,Highway,A R rahman,Silent,1940
+SCETTYB106,50,Ek din bit jayega,Mohmad Rafi,Mohmad Rafi,Silent,1996
+SCETTYB105,50,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1991
+SCETTYB104,50,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1999
+SCETTYB104,50,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1991
+SCETTYB106,50,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB105,50,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB106,50,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1994
+SCETTYB104,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB105,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB104,50,Daru Khrab,Mohmad Rafi,Mohmad Rafi,Silent,1999
+SCETTYB105,50,Ek din bit jayega,Mohmad Rafi,Mohmad Rafi,Silent,1996
+SCETTYB105,50,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1991
+SCETTYB105,50,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1999
+SCETTYB105,50,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1991
+SCETTYB106,50,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB104,50,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB104,50,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1994
+SCETTYB104,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB105,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB104,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB104,50,Daru Khrab,Mohmad Rafi,Mohmad Rafi,Silent,1999
+SCETTYB106,50,Ek din bit jayega,Mohmad Rafi,Mohmad Rafi,Silent,1996
+SCETTYB104,50,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1991
+SCETTYB105,50,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1999
+SCETTYB106,50,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1991
+SCETTYB106,50,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB104,50,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB105,50,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1994
+SCETTYB106,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB105,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB105,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB104,50,Daru Khrab,Mohmad Rafi,Mohmad Rafi,Silent,1999
+SCETTYB104,50,Ek din bit jayega,Mohmad Rafi,Mohmad Rafi,Silent,1996
+SCETTYB106,50,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1991
+SCETTYB105,50,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1999
+SCETTYB105,50,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1991
+SCETTYB106,50,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB105,50,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB104,50,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1994
+SCETTYB106,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB104,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB106,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB104,50,Daru Khrab,Mohmad Rafi,Mohmad Rafi,Silent,1999
+SCETTYB104,50,Ek din bit jayega,Mohmad Rafi,Mohmad Rafi,Silent,1996
+SCETTYB105,50,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1991
+SCETTYB106,50,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1999
+SCETTYB104,50,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1991
+SCETTYB106,50,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB105,50,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB104,50,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1994
+SCETTYB104,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB104,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB105,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB104,50,Daru Khrab,Mohmad Rafi,Mohmad Rafi,Silent,1999
+SCETTYB105,50,Ek din bit jayega,Mohmad Rafi,Mohmad Rafi,Silent,1996
+SCETTYB105,50,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1991
+SCETTYB104,50,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1999
+SCETTYB104,50,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1991
+SCETTYB104,50,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB105,50,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB106,50,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1994
+SCETTYB104,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB105,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB105,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB109,10,Agobai dhagobai,,,Happy,2002
+SCETTYB109,10,Gori Gori Pan,,,Happy,2004
+SCETTYB109,10,Nachare Mora,,,Happy,2005
+SCETTYB109,10,Chidiya Rani,,,Happy,2002
+SCETTYB108,10,Nani teri morni,,,Exciting,2004
+SCETTYB109,10,Sang Sang Bolanath,,,Exciting,2005
+SCETTYB109,10,Chandoba Chandoba,,,Exciting,2002
+SCETTYB108,10,Aai ekti ekti ghabrlis na,,,Silent,2004
+SCETTYB108,10,Angai Geet,,,Silent,2005
+SCETTYB109,10,Agobai dhagobai,,,Happy,1999
+SCETTYB108,10,Gori Gori Pan,,,Happy,2002
+SCETTYB109,10,Nachare Mora,,,Happy,2004
+SCETTYB109,10,Chidiya Rani,,,Happy,2005
+SCETTYB108,10,Nani teri morni,,,Exciting,2002
+SCETTYB108,10,Sang Sang Bolanath,,,Exciting,2004
+SCETTYB108,10,Chandoba Chandoba,,,Exciting,2005
+SCETTYB109,10,Aai ekti ekti ghabrlis na,,,Silent,2002
+SCETTYB109,10,Angai Geet,,,Silent,2004
+SCETTYB108,10,Agobai dhagobai,,,Happy,2005
+SCETTYB108,10,Gori Gori Pan,,,Happy,1999
+SCETTYB108,10,Nachare Mora,,,Happy,2002
+SCETTYB108,10,Chidiya Rani,,,Happy,2004
+SCETTYB109,10,Nani teri morni,,,Exciting,2005
+SCETTYB108,10,Sang Sang Bolanath,,,Exciting,2002
+SCETTYB109,10,Chandoba Chandoba,,,Exciting,2004
+SCETTYB109,10,Aai ekti ekti ghabrlis na,,,Silent,2005
+SCETTYB109,10,Angai Geet,,,Silent,2002
+SCETTYB108,10,Agobai dhagobai,,,Happy,2004
+SCETTYB109,10,Gori Gori Pan,,,Happy,2005
+SCETTYB109,10,Nachare Mora,,,Happy,1999
+SCETTYB109,10,Chidiya Rani,,,Happy,2002
+SCETTYB109,10,Nani teri morni,,,Exciting,2004
+SCETTYB108,10,Sang Sang Bolanath,,,Exciting,2005
+SCETTYB109,10,Chandoba Chandoba,,,Exciting,2002
+SCETTYB109,10,Aai ekti ekti ghabrlis na,,,Silent,2004
+SCETTYB108,10,Angai Geet,,,Silent,2005
+SCETTYB109,10,Agobai dhagobai,,,Happy,2002
+SCETTYB109,10,Gori Gori Pan,,,Happy,2004
+SCETTYB109,10,Nachare Mora,,,Happy,2005
+SCETTYB109,10,Chidiya Rani,,,Happy,1999
+SCETTYB109,10,Nani teri morni,,,Exciting,2002
+SCETTYB108,10,Sang Sang Bolanath,,,Exciting,2004
+SCETTYB109,10,Chandoba Chandoba,,,Exciting,2005
+SCETTYB108,10,Aai ekti ekti ghabrlis na,,,Silent,2002
+SCETTYB109,10,Angai Geet,,,Silent,2004
+SCETTYB108,10,Agobai dhagobai,,,Happy,2005
+SCETTYB108,10,Gori Gori Pan,,,Happy,2002
+SCETTYB109,10,Nachare Mora,,,Happy,2004
+SCETTYB109,10,Chidiya Rani,,,Happy,2005
+SCETTYB109,10,Nani teri morni,,,Exciting,1999
+SCETTYB109,10,Sang Sang Bolanath,,,Exciting,2002
+SCETTYB109,10,Chandoba Chandoba,,,Exciting,2004
+SCETTYB109,10,Aai ekti ekti ghabrlis na,,,Silent,2005
+SCETTYB108,10,Angai Geet,,,Silent,2002
+SCETTYB108,10,Agobai dhagobai,,,Happy,2004
+SCETTYB109,10,Gori Gori Pan,,,Happy,2005
+SCETTYB109,10,Nachare Mora,,,Happy,2002
+SCETTYB108,10,Chidiya Rani,,,Happy,2004
+SCETTYB108,10,Nani teri morni,,,Exciting,1999
+SCETTYB109,10,Sang Sang Bolanath,,,Exciting,2002
+SCETTYB108,10,Chandoba Chandoba,,,Exciting,2004
+SCETTYB108,10,Aai ekti ekti ghabrlis na,,,Silent,2005
+SCETTYB109,10,Angai Geet,,,Silent,2002
+SCETTYB108,10,Agobai dhagobai,,,Happy,2004
+SCETTYB108,10,Gori Gori Pan,,,Happy,2005
+SCETTYB109,10,Nachare Mora,,,Happy,2002
+SCETTYB109,10,Chidiya Rani,,,Happy,2004
+SCETTYB108,10,Nani teri morni,,,Exciting,2005
+SCETTYB107,40,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,2004
+SCETTYB107,40,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,1991
+SCETTYB107,40,Kabhi is tarah,Highway,A R rahman,Silent,2012
+SCETTYB101,40,Ye Khuda,Rockstar,Mohit Chauhan,,2012
+SCETTYB102,40,Khoya khoya chand ,Mohmad Rafi,Mohmad Rafi,Sad,2014
+SCETTYB107,40,Koi Pathar Se na Maare,Aaja Nachle,Shreya Ghoshal,Sad,2008
+SCETTYB103,40,Raabta,Agent Vinod ,Shreya Ghoshal,Sad,2006
+SCETTYB102,40,Maahi,Highway,A R rahman,Sad,2002
+SCETTYB103,40,Jee Karda,Singh Is King,Labh Jan Jua,Exciting,2004
+SCETTYB101,40,Ashlam-e-Ishqum,Gunday,Neha Bhansin,Exciting,2006
+SCETTYB107,40,Sandese Aate Hai ,Border,Sonu Nigam,Exciting,2002
+SCETTYB102,40,Dola Re Dola,Devdas,Shreya Ghoshal,Exciting,2004
+SCETTYB101,40,Diye Jalate Hai,Namak Haram,Kishor Kumar,Silent,2005
+SCETTYB101,40,Saans Me Teri ,Jab Tak Hai Jaan ,Shreya Ghoshal,silent,2012
+SCETTYB102,40,Jo Bhi Main,Rockstar,Mohit Chauhan,Silent,2009
+SCETTYB101,40,Naadaan Parindey,Rockstar,Mohit Chauhan,Silent,1992
+SCETTYB102,40,Tum Ho,Rockstar,Mohit Chauhan,Silent,2004
+SCETTYB103,40,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,2004
+SCETTYB102,40,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,2004
+SCETTYB102,40,Kabhi is tarah,Highway,A R rahman,Silent,2003
+SCETTYB103,40,Ye Khuda,Rockstar,Mohit Chauhan,,2003
+SCETTYB102,40,Khoya khoya chand ,Mohmad Rafi,Mohmad Rafi,Sad,2003
+SCETTYB107,40,Koi Pathar Se na Maare,Aaja Nachle,Shreya Ghoshal,Sad,2003
+SCETTYB101,40,Raabta,Agent Vinod ,Shreya Ghoshal,Sad,2003
+SCETTYB102,40,Maahi,Highway,A R rahman,Sad,2003
+SCETTYB107,40,Jee Karda,Singh Is King,Labh Jan Jua,Exciting,2002
+SCETTYB102,40,Ashlam-e-Ishqum,Gunday,Neha Bhansin,Exciting,2002
+SCETTYB101,40,Sandese Aate Hai ,Border,Sonu Nigam,Exciting,2002
+SCETTYB101,40,Dola Re Dola,Devdas,Shreya Ghoshal,Exciting,2002
+SCETTYB103,40,Diye Jalate Hai,Namak Haram,Kishor Kumar,Silent,2002
+SCETTYB107,40,Saans Me Teri ,Jab Tak Hai Jaan ,Shreya Ghoshal,silent,2002
+SCETTYB101,40,Jo Bhi Main,Rockstar,Mohit Chauhan,Silent,2002
+SCETTYB107,40,Naadaan Parindey,Rockstar,Mohit Chauhan,Silent,2001
+SCETTYB103,40,Tum Ho,Rockstar,Mohit Chauhan,Silent,2001
+SCETTYB103,40,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,2001
+SCETTYB101,40,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,2001
+SCETTYB102,40,Kabhi is tarah,Highway,A R rahman,Silent,2001
+SCETTYB101,40,Ye Khuda,Rockstar,Mohit Chauhan,,2001
+SCETTYB102,40,Khoya khoya chand ,Mohmad Rafi,Mohmad Rafi,Sad,2000
+SCETTYB103,40,Koi Pathar Se na Maare,Aaja Nachle,Shreya Ghoshal,Sad,2000
+SCETTYB101,40,Raabta,Agent Vinod ,Shreya Ghoshal,Sad,2000
+SCETTYB103,40,Maahi,Highway,A R rahman,Sad,2000
+SCETTYB101,40,Jee Karda,Singh Is King,Labh Jan Jua,Exciting,2000
+SCETTYB101,40,Ashlam-e-Ishqum,Gunday,Neha Bhansin,Exciting,2000
+SCETTYB102,40,Sandese Aate Hai ,Border,Sonu Nigam,Exciting,2000
+SCETTYB102,40,Dola Re Dola,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB102,40,Diye Jalate Hai,Namak Haram,Kishor Kumar,Silent,1999
+SCETTYB102,40,Saans Me Teri ,Jab Tak Hai Jaan ,Shreya Ghoshal,silent,1999
+SCETTYB101,40,Jo Bhi Main,Rockstar,Mohit Chauhan,Silent,1999
+SCETTYB101,40,Naadaan Parindey,Rockstar,Mohit Chauhan,Silent,1999
+SCETTYB102,40,Tum Ho,Rockstar,Mohit Chauhan,Silent,1999
+SCETTYB107,40,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,1998
+SCETTYB103,40,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,1998
+SCETTYB102,40,Kabhi is tarah,Highway,A R rahman,Silent,1998
+SCETTYB107,40,Ye Khuda,Rockstar,Mohit Chauhan,,1998
+SCETTYB103,40,Khoya khoya chand ,Mohmad Rafi,Mohmad Rafi,Sad,1998
+SCETTYB107,40,Koi Pathar Se na Maare,Aaja Nachle,Shreya Ghoshal,Sad,1998
+SCETTYB103,40,Raabta,Agent Vinod ,Shreya Ghoshal,Sad,1998
+SCETTYB107,40,Maahi,Highway,A R rahman,Sad,1997
+SCETTYB102,40,Jee Karda,Singh Is King,Labh Jan Jua,Exciting,1997
+SCETTYB107,40,Ashlam-e-Ishqum,Gunday,Neha Bhansin,Exciting,1997
+SCETTYB107,40,Sandese Aate Hai ,Border,Sonu Nigam,Exciting,1997
+SCETTYB103,40,Dola Re Dola,Devdas,Shreya Ghoshal,Exciting,1997
+SCETTYB102,40,Diye Jalate Hai,Namak Haram,Kishor Kumar,Silent,1997
+SCETTYB103,40,Saans Me Teri ,Jab Tak Hai Jaan ,Shreya Ghoshal,silent,1996
+SCETTYB101,40,Jo Bhi Main,Rockstar,Mohit Chauhan,Silent,1996
+SCETTYB107,40,Naadaan Parindey,Rockstar,Mohit Chauhan,Silent,1996
+SCETTYB103,40,Tum Ho,Rockstar,Mohit Chauhan,Silent,1996
+SCETTYB107,40,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,1996
+SCETTYB102,40,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,1996
+SCETTYB103,40,Kabhi is tarah,Highway,A R rahman,Silent,1996
+SCETTYB101,40,Ye Khuda,Rockstar,Mohit Chauhan,,1995
+SCETTYB103,40,Khoya khoya chand ,Mohmad Rafi,Mohmad Rafi,Sad,1995
+SCETTYB101,40,Koi Pathar Se na Maare,Aaja Nachle,Shreya Ghoshal,Sad,1995
+SCETTYB103,40,Raabta,Agent Vinod ,Shreya Ghoshal,Sad,1995
+SCETTYB107,40,Maahi,Highway,A R rahman,Sad,1995
+SCETTYB101,40,Jee Karda,Singh Is King,Labh Jan Jua,Exciting,1995
+SCETTYB102,40,Ashlam-e-Ishqum,Gunday,Neha Bhansin,Exciting,1994
+SCETTYB102,40,Sandese Aate Hai ,Border,Sonu Nigam,Exciting,1994
+SCETTYB102,40,Dola Re Dola,Devdas,Shreya Ghoshal,Exciting,1994
+SCETTYB101,40,Diye Jalate Hai,Namak Haram,Kishor Kumar,Silent,1994
+SCETTYB101,40,Saans Me Teri ,Jab Tak Hai Jaan ,Shreya Ghoshal,silent,1994
+SCETTYB101,40,Jo Bhi Main,Rockstar,Mohit Chauhan,Silent,1994
+SCETTYB102,40,Naadaan Parindey,Rockstar,Mohit Chauhan,Silent,1994
+SCETTYB101,40,Tum Ho,Rockstar,Mohit Chauhan,Silent,1993
+SCETTYB102,40,Aisi Deewangi Dekhi,Deewana,Vinod Rathod,Happy,1993
+SCETTYB107,40,Hawa Hawaa,Rockstar,Mohit Chauhan,Happy,1993
+SCETTYB101,40,Kabhi is tarah,Highway,A R rahman,Silent,1993
+SCETTYB107,40,Ye Khuda,Rockstar,Mohit Chauhan,,1993
+SCETTYB107,40,Khoya khoya chand ,Mohmad Rafi,Mohmad Rafi,Sad,1993
+SCETTYB101,40,Koi Pathar Se na Maare,Aaja Nachle,Shreya Ghoshal,Sad,1992
+SCETTYB101,40,Raabta,Agent Vinod ,Shreya Ghoshal,Sad,1992
+SCETTYB107,40,Maahi,Highway,A R rahman,Sad,1992
+SCETTYB107,40,Jee Karda,Singh Is King,Labh Jan Jua,Exciting,1992
+SCETTYB103,40,Ashlam-e-Ishqum,Gunday,Neha Bhansin,Exciting,1992
+SCETTYB107,40,Sandese Aate Hai ,Border,Sonu Nigam,Exciting,1992
+SCETTYB106,50,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1999
+SCETTYB105,50,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1991
+SCETTYB106,50,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB106,50,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB106,50,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1994
+SCETTYB104,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB104,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB105,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB105,50,Daru Khrab,Mohmad Rafi,Mohmad Rafi,Silent,1999
+SCETTYB104,50,Ek din bit jayega,Mohmad Rafi,Mohmad Rafi,Silent,1996
+SCETTYB106,50,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1991
+SCETTYB106,50,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1999
+SCETTYB106,50,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1991
+SCETTYB106,50,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB106,50,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB105,50,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1994
+SCETTYB106,50,Dekho idhar Dekho,Namak Haram,Kishor Kumar,Sad,1999
+SCETTYB106,50,Aa Dekhe jara,Agent Vinod ,Shreya Ghoshal,Exciting,1992
+SCETTYB105,50,Bhole o Bhole,Devdas,Shreya Ghoshal,Exciting,1999
+SCETTYB105,50,Daru Khrab,Mohmad Rafi,Mohmad Rafi,Silent,1999
+SCETTYB105,50,Ek din bit jayega,Mohmad Rafi,Mohmad Rafi,Silent,1996
+SCETTYB105,50,Deewani ,Om Shanti Om,Shreya Ghosal,Happy,1991
+SCETTYB106,50,Hum to apke diwane,Mohmad Rafi,Mohmad Rafi,Happy,1999
+SCETTYB105,50,Chal rahi chal,Namak Haram,Kishor Kumar,Happy,1991
+SCETTYB104,50,Gore rang pai ,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB105,50,Mera Juta Hai Jawani,Namak Haram,Kishor Kumar,Happy,1996
+SCETTYB105,50,Aachal ke tuze,Namak Haram,Kishor Kumar,Sad,1994
