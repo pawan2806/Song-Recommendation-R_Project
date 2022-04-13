@@ -2,7 +2,9 @@ library(plyr)
 library(dplyr)
 library(scales)
 library(lsa)
-df_SongsData <- read.csv("songFeatures.csv")
+
+my_function <- function(songIdAsArgument) {
+  df_SongsData <- read.csv("songFeatures.csv")
 min_max_norm <- function(x) {
     if(max(x)==0 && min(x)==0){
         x
@@ -37,3 +39,8 @@ for(var in 1:5){
     # print("NUM")
     print(df_SongsData[x,2])
 }
+
+}
+
+
+
