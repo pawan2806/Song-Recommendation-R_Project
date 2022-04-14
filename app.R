@@ -38,7 +38,19 @@ sortedSongPairs <- order(-sapply(songPairs, `[`, 1))
 
 print("CHECKPOINT3")
 
-return(sortedSongPairs)
+A <- matrix(
+  sortedSongPairs,
+  nrow = length(sortedSongPairs),            
+  ncol = 2,            
+  byrow = FALSE         
+)
+for(var in 1:length(sortedSongPairs)) {
+    A[var, 2] <- df_SongsData[sortedSongPairs[var],2]
+}
+
+
+
+return(as.matrix(A))
 
 }
 
@@ -75,6 +87,7 @@ ui <- fluidPage( theme = bs_theme(version = 4, bootswatch = "minty"),
       
       # Output
       htmlOutput("example"),
+      dataTableOutput('table'),
       verbatimTextOutput(outputId = "playlist"),
       tags$head(tags$style("#text1{color: red;
                                  font-size: 20px;
@@ -92,12 +105,10 @@ server <- function(input, output, session) {
  states <- reactive({
        my_function((input$artist))
     })
- output$example <- renderUI({
+    
 
-      x <- paste0("<strong>Here are some recommendations (decreasing order of similarity):</strong> \n ", paste(states(), collapse = " "))
-      HTML(x)
-
-    }) 
+ output$table <- renderDataTable(states(), rownames = FALSE,
+  colnames = c("SongID", "Song Name"),)
   
 
 }
