@@ -2,7 +2,6 @@
 library(shiny)
 library(dplyr)
 library(shinythemes)
-library(spotifyr)
 library(bslib)
 library(DT)
 library(plyr)
@@ -42,11 +41,7 @@ print("CHECKPOINT3")
 return(sortedSongPairs)
 
 }
-id <- #redacted
-secret <- #redacted
-Sys.setenv(SPOTIFY_CLIENT_ID = "42af6f2a1ff744f3b5217c96e4112792")
-Sys.setenv(SPOTIFY_CLIENT_SECRET = "461c2912d78b4fcbb9d0a5a0cf36636d")
-access_token <- get_spotify_access_token()
+
 
 genres <- c("acoustic", "afrobeat","alt-rock", "alternative", "ambient", "anime", "black-metal","bluegrass","blues","bossanova",
             "brazil","breakbeat","british","cantopop","chicago-house","children","chill", "classical","club", "comedy","country",
