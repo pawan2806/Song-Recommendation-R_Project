@@ -4,12 +4,12 @@ library(dplyr)
 library(shinythemes)
 library(bslib)
 library(DT)
-library(plyr)
 library(dplyr)
+library(plyr)
 library(scales)
 library(lsa)
 
-my_function <- function(songIdAsArgument) {
+getRecommendation <- function(songIdAsArgument) {
   df_SongsData <- read.csv("songFeatures.csv")
 min_max_norm <- function(x) {
     if(max(x)==0 && min(x)==0){
@@ -20,74 +20,62 @@ min_max_norm <- function(x) {
     
   }
 df_SongsDataNormalized <- as.data.frame(lapply(df_SongsData[4:14], min_max_norm))
-# print(df_SongsDataNormalized[1:2,1])    #Columns, then Rows CxR
-# print(df_SongsDataNormalized)
+
 mm = t(as.matrix(df_SongsDataNormalized[,]))
 similarityMatrix <- cosine(mm)
-# print(similarityMatrix)
-# print(paste("Choose index Between 0 and ", nrow(df_SongsDataNormalized)-1))
-indexToBeRecommended <- songIdAsArgument
-# print(indexToBeRecommended)
 
-songRow <- similarityMatrix[indexToBeRecommended+1,]
+indexToBeRecommended <- songIdAsArgument
+
+
+songRow <- similarityMatrix[indexToBeRecommended,]
 songPairs <- vector(mode = "list", length = length(songRow))
 for(var in 1:length(songRow)) {
     songPairs[[var]] <- c(songRow[var],var)
 }
-sortedSongPairs <- order(-sapply(songPairs, `[`, 1))
 
+sortedSongPairs <- order(-sapply(songPairs, `[`, 1))
 print("CHECKPOINT3")
 
 A <- matrix(
   sortedSongPairs,
-  nrow = length(sortedSongPairs),            
+  nrow = 6,            
   ncol = 2,            
   byrow = FALSE         
 )
-for(var in 1:length(sortedSongPairs)) {
+
+for(var in 2:6) {
     A[var, 2] <- df_SongsData[sortedSongPairs[var],2]
 }
 
 
-
-return(as.matrix(A))
-
+return(as.matrix(A[2:6,]))
 }
-
-
-genres <- c("acoustic", "afrobeat","alt-rock", "alternative", "ambient", "anime", "black-metal","bluegrass","blues","bossanova",
-            "brazil","breakbeat","british","cantopop","chicago-house","children","chill", "classical","club", "comedy","country",
-            "dance","dancehall","death-metal","deep-house", "detroit-techno","disco","disney","drum-and-bass","dub","dubstep",
-            "edm","electro","electronic","emo","folk","forro","french","funk","garage","german","gospel","goth","grindcore",
-            "groove","grunge","guitar","happy","hard-rock","hardcore","hardstyle","heavy-metal","hip-hop","holidays","honky-tonk",
-            "house","idm","indian","indie","indie-pop","industrial","iranian","j-dance","j-idol","j-pop","j-rock","jazz","k-pop",
-            "kids","latin","latino","malay","mandopop","metal","metal-misc","metalcore","minimal-techno","movies","mpb","new-age",
-            "new-release","opera","pagode","party","philippines-opm","piano","pop","pop-film","post-dubstep","power-pop",
-            "progressive-house","psych-rock","punk","punk-rock","r-n-b","rainy-day","reggae","reggaeton","road-trip","rock",
-            "rock-n-roll","rockabilly","romance","sad","salsa","samba","sertanejo","show-tunes","singer-songwriter","ska",
-            "sleep","songwriter","soul","soundtracks","spanish","study","summer","swedish","synth-pop","tango","techno",
-            "trance","trip-hop","turkish","work-out","world-music")
-
+df_SongsData <- read.csv("songFeatures.csv")
 ui <- fluidPage( theme = bs_theme(version = 4, bootswatch = "minty"),
-  # App title ----
+
   h2("Playlist Recommendations"),
   
   sidebarLayout(
     
     sidebarPanel(
       
-      # Inputs
-      numericInput("artist", "Input a Song",0 ,
+      numericInput("ID", "Input a Song",1 ,
              min = 1, max = 100),
-      actionButton("request", "Get Recommendations!", style="color: #fff; background-color: #228B22; border-color: #2e6da4")
-    
+      
+      textOutput("songName"),
+      actionButton("request", "Get Recommendations!", style="color: #fff; background-color: #228B22; border-color: #2e6da4"),
+      br(),
+      br(),
+      br(),
+      br(),
+      dataTableOutput('table'),
     ),
     
     mainPanel(
       
-      # Output
       htmlOutput("example"),
-      dataTableOutput('table'),
+      
+      dataTableOutput('datasetTable'),
       verbatimTextOutput(outputId = "playlist"),
       tags$head(tags$style("#text1{color: red;
                                  font-size: 20px;
@@ -99,17 +87,39 @@ ui <- fluidPage( theme = bs_theme(version = 4, bootswatch = "minty"),
     )
   )
 )
+getTable <- function() {
+  dataset <- as.data.frame(read.csv("songFeatures.csv"))
+  # print(dataset)
+  df <- data.matrix(dataset)
+  # print(df)
+  print(length(df[,1]))
+  for(var in 1:length(df[,1])) {
+    df[var, 2] <- df_SongsData[var,2]
+  }
+  for(var in 1:length(df[,1])) {
+    df[var, 1] <- (as.integer(df[var,1]) +1)
+  }
 
+  return(df[,1:2])
+}
 server <- function(input, output, session) {
   
- states <- reactive({
-       my_function((input$artist))
+ states<- reactive({
+       getRecommendation((input$ID))
     })
-    
+  
+  output$songName <- reactive( {
+    toString((df_SongsData[(input$ID),2]))
+  })
 
  output$table <- renderDataTable(states(), rownames = FALSE,
   colnames = c("SongID", "Song Name"),)
-  
+
+  datasetStates<- reactive({
+       getTable()
+    })
+  output$datasetTable <- renderDataTable(datasetStates(), rownames = FALSE,
+  colnames = c("SongID", "Song Name"),)
 
 }
 

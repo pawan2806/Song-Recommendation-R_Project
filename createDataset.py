@@ -56,6 +56,9 @@ try:
     audioDictList=[]
     audioDictList = loadPlaylistFeatures("37i9dQZF1DXdctHW27fX32",audioDictList=audioDictList) #This is Badshah
     audioDictList = loadPlaylistFeatures("37i9dQZF1DZ06evO2uagOI",audioDictList=audioDictList) #This is KK
+    audioDictList = loadPlaylistFeatures("37i9dQZF1DZ06evO33Dcqb",audioDictList=audioDictList) #This is Shaan
+    audioDictList = loadPlaylistFeatures("37i9dQZF1DZ06evO3UObcz",audioDictList=audioDictList) #This is Vishal Dadlani
+    audioDictList = loadPlaylistFeatures("4KPtTmAGJvGVhHCsWjO70N",audioDictList=audioDictList) #Bollywood Playlist 2021
     # audioDictList = loadPlaylistFeatures("37i9dQZF1DZ06evO2uagOI",audioDictList=audioDictList) #This is KK
     df = pd.DataFrame(audioDictList)
     print(df)
